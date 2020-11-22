@@ -29,5 +29,11 @@
         <activity
             android:name=".ui.activity.LoginActivity"
             android:theme="@style/AppCompat.FullScreen" />
+        <activity
+            android:name=".ui.activity.HomeActivity"
+            android:theme="@style/AppCompat.FullScreen" />
+        <activity
+            android:name=".ui.activity.ResumoNoticiaActivity"
+            android:theme="@style/AppCompat.FullScreen" />
     </application>
 </manifest>
